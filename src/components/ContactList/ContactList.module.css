@@ -1,0 +1,8 @@
+.btnContact{
+    margin-left: 30px;
+}
+
+.ulList{
+    display: grid;
+    gap: 15px;
+}

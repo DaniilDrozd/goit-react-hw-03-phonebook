@@ -1,0 +1,23 @@
+.NameStyle{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    display: block;
+    display: grid;
+    justify-content: center;
+}
+
+.numberSlyle{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 10px;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 15px;
+        display: grid;
+        justify-content: center;
+    }
+    .inputSlyle{
+        margin-top: 15px;
+    }
