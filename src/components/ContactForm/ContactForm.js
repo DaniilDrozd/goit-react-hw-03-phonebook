@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { nanoid } from 'nanoid';
-import css from './ContactForm.module.css'
+import { nanoid } from 'nanoid';import css from './ContactForm.module.css'
 
 class ContactForm extends Component {
   state = {
